@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem",
+    "version": "1.5.1",
+    "libraryName": "spfx-angular",
+    "libraryId": "86fd41b4-5a6b-40af-95bc-3ad17f66e455",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

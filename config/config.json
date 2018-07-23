@@ -1,0 +1,18 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/spfxAngular/SpfxAngularWebPart.js",
+      "manifest": "./src/webparts/spfxAngular/SpfxAngularWebPart.manifest.json",
+      "outputPath": "./dist/spfx-angular-web-part.js"
+    }
+  ],
+  "externals": {
+    "angular": {
+      "path": "./node_modules/angular/angular.min.js",
+      "globalName": "angular"
+    }
+  },
+  "localizedResources": {
+    "SpfxAngularWebPartStrings": "webparts/spfxAngular/loc/{locale}.js"
+  }
+}
