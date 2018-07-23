@@ -9,7 +9,6 @@ import { escape } from '@microsoft/sp-lodash-subset';
 import styles from './SpfxAngularWebPart.module.scss';
 import * as strings from 'SpfxAngularWebPartStrings';
 
-import 'angular';
 import * as angular from 'angular';
 
 export interface ISpfxAngularWebPartProps {
